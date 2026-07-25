@@ -1,0 +1,486 @@
+Topic:
+
+Programming Basics
+Time Complexity (Big O)
+Arrays
+Searching
+Sorting
+Strings
+Recursion
+Hashing
+Linked List
+Stack
+Queue
+Trees
+Binary Search Tree (BST)
+Heap (Priority Queue)
+Trie
+Graph
+Greedy Algorithms
+Backtracking
+Dynamic Programming (DP)
+Bit Manipulation
+Mathematical Algorithms
+Segment Tree & Fenwick Tree
+Union-Find (Disjoint Set Union)
+Advanced Graph Algorithms
+Advanced Dynamic Programming
+Interview Patterns & Revision
+
+----------------------------------start-------------------------------
+
+Phase 0 : Programming Basics (1 Week)
+
+Topics
+
+Variables
+Data Types
+Operators
+If Else
+Loops
+Functions
+Recursion Basics
+Input Output
+Time Complexity Introduction
+
+Questions
+
+Factorial
+Prime Number
+Fibonacci
+Armstrong Number
+Palindrome
+Reverse Number
+
+--------------------------------------------------------
+Phase 1 : Time Complexity
+
+Learn:
+Big O
+Big Omega
+Big Theta
+
+Complexities:
+O(1)
+O(log n)
+O(n)
+O(n log n)
+O(n²)
+O(n³)
+O(2ⁿ)
+O(n!)
+
+Understand:
+Worst Case
+Average Case
+Best Case
+
+-------------------------------------------------------------------------
+Phase 2 : Arrays
+
+Topics:
+Traversal
+Insertion
+Deletion
+Rotation
+Reverse
+Prefix Sum
+Suffix Sum
+Kadane Algorithm
+Sliding Window
+Two Pointer
+
+Questions
+
+Easy:
+Largest Element
+Second Largest
+Remove Duplicates
+Move Zeroes
+Left Rotate
+
+Medium:
+Maximum Subarray
+Two Sum
+Best Time to Buy Sell Stock
+Majority Element
+Rearrange Positive Negative
+
+Hard:
+Trapping Rain Water
+Merge Intervals
+Product Except Self
+
+-----------------------------------------------------------------------
+Phase 3 : Searching
+
+Topics:
+Linear Search
+Binary Search
+Binary Search on Answer
+
+Questions:
+Binary Search
+First Last Position
+Peak Element
+Search in Rotated Array
+Square Root
+Koko Eating Bananas
+
+-----------------------------------------------------------------------
+Phase 4 : Sorting
+
+Learn:
+Bubble
+Selection
+Insertion
+Merge
+Quick
+Heap Sort
+
+Understand:
+Stable Sorting
+Unstable Sorting
+In-place Sorting
+
+-----------------------------------------------------------------------
+Phase 5 : Strings:
+
+Topics:
+Reverse String
+Palindrome
+Frequency Count
+Anagram
+String Builder
+Pattern Matching
+KMP
+Rabin Karp
+Z Algorithm
+
+-----------------------------------------------------------------------
+Phase 6 : Recursion
+
+Topics:
+Stack Space
+Backtracking Basics
+
+Problems:
+Factorial
+Fibonacci
+Power
+Tower of Hanoi
+Generate Parenthesis
+N Queen
+Sudoku
+
+------------------------------------------------------------------------
+Phase 7 : Hashing
+
+Learn:
+HashMap
+HashSet
+Dictionary
+
+Questions:
+Two Sum
+Frequency Count
+Longest Consecutive Sequence
+
+------------------------------------------------------------------------
+Phase 8 : Linked List
+
+Topics:
+Singly
+Doubly
+Circular
+
+Questions:
+Reverse Linked List
+Detect Cycle
+Middle Node
+Merge Two Lists
+Remove Nth Node
+LRU Cache
+
+------------------------------------------------------------------------
+Phase 9 : Stack
+
+Topics:
+Stack Implementation
+Monotonic Stack
+
+Questions:
+Valid Parentheses
+Next Greater Element
+Largest Rectangle Histogram
+Min Stack
+
+------------------------------------------------------------------------
+Phase 10 : Queue
+
+Topics:
+Queue
+Circular Queue
+Deque
+Priority Queue
+
+Questions:
+Sliding Window Maximum
+Rotten Oranges
+
+------------------------------------------------------------------------
+Phase 11 : Trees
+
+Topics:
+    Binary Tree
+    BST
+
+    Traversal:
+        Preorder
+        Inorder
+        Postorder
+        Level Order
+
+Questions:
+Height
+Diameter
+Lowest Common Ancestor
+Symmetric Tree
+Boundary Traversal
+Zigzag Traversal
+
+-------------------------------------------------------------------------
+Phase 12 : Heap
+
+Topics:
+Max Heap
+Min Heap
+
+Questions:
+K Largest
+Merge K Sorted Lists
+Median Stream
+
+-------------------------------------------------------------------------
+Phase 13 : Trie
+
+Topics:
+Insert
+Search
+Prefix Search
+
+Questions:
+Implement Trie
+Word Search
+
+------------------------------------------------------------------------
+Phase 14 : Graph 
+
+Topics:
+    Representation:
+        Adjacency Matrix
+        Adjacency List
+
+Traversal:
+BFS
+DFS
+
+Algorithms:
+Topological Sort
+Cycle Detection
+Dijkstra
+Bellman Ford
+Floyd Warshall
+Prim
+Kruskal
+Union Find
+
+------------------------------------------------------------------------
+Phase 15 : Greedy
+
+Questions:
+Activity Selection
+Fractional Knapsack
+Job Scheduling
+Gas Station
+
+-----------------------------------------------------------------------
+Phase 16 : Backtracking
+
+Questions:
+N Queen
+Rat in Maze
+Sudoku
+Word Search
+
+-----------------------------------------------------------------------
+Phase 17 : Dynamic Programming
+
+most important Topic
+
+Learn Pattern:
+Memoization
+Tabulation
+Space Optimization
+
+Questions:
+Fibonacci
+Climbing Stairs
+House Robber
+Coin Change
+LIS
+LCS
+Edit Distance
+Matrix Chain Multiplication
+Knapsack
+Partition Equal Subset
+Burst Balloons
+
+-----------------------------------------------------------------------
+Phase 18 : Bit Manipulation
+
+Topics:
+AND
+OR
+XOR
+NOT
+Left Shift
+Right Shift
+
+Questions:
+Single Number
+Missing Number
+Power of Two
+Count Bits
+
+----------------------------------------------------------------------
+Phase 19 : Advanced Trees
+
+Learn:
+AVL Tree
+Red Black Tree
+Segment Tree
+Fenwick Tree
+Binary Indexed Tree
+
+----------------------------------------------------------------------
+Phase 20 : Advanced Graph
+
+Learn:
+Strongly Connected Components
+Tarjan
+Kosaraju
+Bridges
+Articulation Point
+Maximum Flow
+Network Flow
+
+-----------------------------------------------------------------------
+Phase 21 : Advanced DP
+
+Learn:
+Digit DP
+Bitmask DP
+Tree DP
+State DP
+
+-----------------------------------------------------------------------
+Phase 22 : Mathematical Algorithms
+
+Topics:
+GCD
+LCM
+Sieve of Eratosthenes
+Prime Factorization
+Fast Exponentiation
+Modular Arithmetic
+Combinatorics
+
+-----------------------------------------------------------------------
+Phase 23 : Interview Patterns
+
+Master these patterns:
+Two Pointer
+Sliding Window
+Binary Search
+Prefix Sum
+Greedy
+Recursion
+Backtracking
+DFS
+BFS
+Topological Sort
+Heap
+Monotonic Stack
+Monotonic Queue
+Dynamic Programming
+Union Find
+Trie
+Segment Tree
+
+-----------------------------------------------------------------------
+
+
+-------------------------Practice Platforms-------------------------
+
+Beginner:
+    LeetCode
+    HackerRank
+    CodeChef
+Intermediate:
+    LeetCode
+    GeeksforGeeks
+    Coding Ninjas
+Advanced:
+    Codeforces
+    AtCoder
+    CSES Problem Set
+
+
+
+------------------------Target Number of Questions------------------------
+
+| Topic            | Questions |
+| ---------------- | --------: |
+| Arrays           |        80 |
+| Strings          |        50 |
+| Hashing          |        30 |
+| Linked List      |        40 |
+| Stack            |        40 |
+| Queue            |        20 |
+| Trees            |       100 |
+| BST              |        50 |
+| Heap             |        30 |
+| Graph            |       120 |
+| DP               |       150 |
+| Greedy           |        60 |
+| Backtracking     |        40 |
+| Bit Manipulation |        30 |
+| Math             |        40 |
+
+
+Average questions:
+Total: ~920 questions
+
+
+
+----------------------------- 6-Month Study Plan -----------------------------
+Month 1: Basics + Complexity + Arrays + Searching + Sorting + Strings
+Month 2: Recursion + Hashing + Linked List + Stack + Queue
+Month 3: Trees + BST + Heap + Trie
+Month 4: Graph + Greedy + Backtracking
+Month 5: Dynamic Programming + Bit Manipulation + Math
+Month 6: Mixed Revision + Mock Interviews + Contest Practice
+
+
+
+
+
+
+------------------------------ADVANCED----------------------------------
+
+Object-Oriented Programming (OOP)
+SQL (Joins, Group By, Window Functions)
+Operating System (OS)
+Computer Networks (CN)
+Database Management System (DBMS)
