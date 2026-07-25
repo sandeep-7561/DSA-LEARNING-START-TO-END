@@ -1,0 +1,30 @@
+DSA = Data Structures + Algorithms
+
+Data Structures:
+    trick to store data:
+        list
+        array
+        stack
+        queue
+        linked list
+        tree
+        graph
+        hash map
+
+Algorithm:
+    step-by-step method of Problem solving:
+        searching
+        sorting
+        binary search
+        recursion
+        dynamic programming
+
+
+
+First we need to know concept : Time Complexity
+when we write Algorithms, we want to see 2 things:
+    how much time needed
+    how much memory needed
+
+
+what is time Complexity?
