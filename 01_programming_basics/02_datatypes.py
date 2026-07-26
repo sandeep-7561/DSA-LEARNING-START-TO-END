@@ -1,5 +1,5 @@
 a = 20
-b = 'Sandeep'
+b = 'sandeep'
 c = 7.2
 d = True
 
