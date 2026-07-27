@@ -126,11 +126,14 @@ outer()
 # *args
 def add(*numbers):
     print(numbers)
+    print(type(numbers))
 add(1,2,3,4,5)
+
 
 # **kwargs
 def student(**data):
     print(data)
+    print(type(data))
 student(name="Sandeep", age=20)
 
 
